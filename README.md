@@ -12,7 +12,7 @@
    
  
 ## Urządzenia
-   [Zestaw kamer]()
+   [Zestaw kamer](#zestaw-kamer)
    
    [Tp-link centrala zarządzania kamerami i alarm]()
 
