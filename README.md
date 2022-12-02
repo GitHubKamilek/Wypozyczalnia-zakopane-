@@ -11,11 +11,11 @@
    [Hasło centrala]()
    
    
-## 1.Kamery
+## Kamery
 
 
-## 1.Iphone
+## Iphone
 
-## 1.Tp-link
+## Tp-link
 
-## 1.Centrala
+## Centrala
