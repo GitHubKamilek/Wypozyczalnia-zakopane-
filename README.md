@@ -42,4 +42,10 @@
 
 ## Zestaw kamer
 
+![](https://user-images.githubusercontent.com/98666161/205262272-e60ab25c-e6d8-47f6-891f-6ad75b638bed.png)
+
+![](https://user-images.githubusercontent.com/98666161/205262312-88063327-e20c-4815-a371-2f694ea2b92b.png)
+
 ## Tp-link/Centrala/alarm 
+
+![](https://user-images.githubusercontent.com/98666161/205262371-087e0233-c5ab-4a39-9c83-5fd68ed39cb9.png)
