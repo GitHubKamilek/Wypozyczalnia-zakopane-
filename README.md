@@ -8,7 +8,7 @@
    
    [Hasło tp-link](#tp-link)
    
-   [Hasło centrala]()
+   [Hasło centrala](#centrala)
    
    
 ## Kamery
