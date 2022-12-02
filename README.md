@@ -39,6 +39,9 @@
 ## Centrala
 ### Hasła do urzytkowników (uzupełnić)
 
+### Admin 121212
+### User 831013
+
 
 ## Zestaw kamer
 
