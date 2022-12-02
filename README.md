@@ -6,12 +6,16 @@
   
    [Hasło iphone](#1akamery)
    
-   [Hasło tp-link]()
+   [Hasło tp-link](#1biphone)
    
    [Hasło centrala]()
    
    
-## 1a.Kamery
+## 1.Kamery
 
 
-## 1b.Iphone
+## 1.Iphone
+
+## 1.Tp-link
+
+## 1.Centrala
