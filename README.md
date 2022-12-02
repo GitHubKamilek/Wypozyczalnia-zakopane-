@@ -20,6 +20,7 @@
 ## Kamery
 
 ### Hasło do zarzadzania kamerami  !qaz?WSX
+User Admin / admin
 
 ### Hasło do kamer (wzór)
 
@@ -37,7 +38,7 @@
 ### hasło do konfiguracji (logowanie) Service990@/Service990
 
 ## Centrala
-### Hasła do urzytkowników (uzupełnić)
+### Hasła do urzytkowników
 
 ### Admin 121212
 ### User 831013
