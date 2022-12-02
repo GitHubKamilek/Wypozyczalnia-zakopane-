@@ -14,7 +14,7 @@
 ## Urządzenia
    [Zestaw kamer](#zestaw-kamer)
    
-   [Tp-link centrala zarządzania kamerami i alarm]()
+   [Tp-link centrala zarządzania kamerami i alarm](#tp-linkcentralaalarm)
 
 
 ## Kamery
