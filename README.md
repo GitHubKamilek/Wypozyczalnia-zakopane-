@@ -4,7 +4,7 @@
 ## 1.Hasła    
    [Hasło kamery ](#1hasła)
   
-   [Hasło iphone]()
+   [Hasło iphone](#1akamery)
    
    [Hasło tp-link]()
    
@@ -12,3 +12,6 @@
    
    
 ## 1a.Kamery
+
+
+## 1b.Iphone
