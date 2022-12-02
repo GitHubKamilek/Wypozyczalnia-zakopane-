@@ -2,7 +2,7 @@
 # Spis treści
 
 ## 1.Hasła    
-   [Hasło kamery ](#1hasła)
+   [Hasło kamery ](#kamery)
   
    [Hasło iphone](#1akamery)
    
