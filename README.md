@@ -4,7 +4,7 @@
 ## 1.Hasła    
    [Hasło kamery ](#kamery)
   
-   [Hasło iphone](#1akamery)
+   [Hasło iphone](#iphone)
    
    [Hasło tp-link](#1biphone)
    
