@@ -1,1 +1,1 @@
-# Wypozyczalnia-zakopane-
+# Wypozyczalnia-zakopane
