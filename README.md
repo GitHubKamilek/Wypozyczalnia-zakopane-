@@ -6,7 +6,7 @@
   
    [Hasło iphone](#iphone)
    
-   [Hasło tp-link](#1biphone)
+   [Hasło tp-link](#tp-link)
    
    [Hasło centrala]()
    
